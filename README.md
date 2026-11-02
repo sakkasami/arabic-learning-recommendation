@@ -1,3 +1,4 @@
+DOI: https://doi.org/10.5281/zenodo.23882149
 # BRAD-Edu: a semi-synthetic Arabic educational corpus for affect-aware recommendation
 
 BRAD-Edu extends the BRAD corpus of Arabic book reviews (Elnagar and Einea, 2016) into a test bed for
