@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use BRAD-Edu, please cite the NFAR article and the BRAD corpus."
+title: "BRAD-Edu: a semi-synthetic Arabic educational corpus for affect-aware recommendation"
+version: "1.0"
+date-released: 2026-11-02
+authors:
+  - family-names: Zrigui
+    given-names: Sarra
+  - family-names: Mallat
+    given-names: Souheyl
+  - family-names: Mabrouk
+    given-names: Mohamed
+  - family-names: Atanassova
+    given-names: Iana
+keywords: [Arabic, educational recommender systems, sentiment analysis, affective computing, semi-synthetic dataset]
+references:
+  - type: conference-paper
+    title: "BRAD 1.0: Book reviews in Arabic dataset"
+    authors:
+      - family-names: Elnagar
+        given-names: Ashraf
+      - family-names: Einea
+        given-names: Omar
+    year: 2016
+    doi: 10.1109/AICCSA.2016.7945800
